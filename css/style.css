@@ -6,17 +6,18 @@ html {
 
 body {
     font-family: Menlo, Monospace;
-    font-size: 10pt;
+    font-size: 11pt;
+    margin: 5em;
+    padding: 1em;
 }
 
 pre {
     font-family: Menlo, Monospace;
-    font-size: 10pt;
-    line-height: 150%;
+    line-height: 160%;
 }
 
 a:link {
-  color: #315192;
+  color: #244890;
 }
 
 a:visited {
@@ -24,10 +25,5 @@ a:visited {
 }
 
 a:hover {
-    color: #2d7e8a;
-}
-
-#placeholder {
-    margin: 5em;
-    padding: 1em;
+    color: #3095a5;
 }
